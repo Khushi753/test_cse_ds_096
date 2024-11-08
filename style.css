@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+#head{
+    text-align: center;
+
+}
+#taxle{
+    align-items: center;
+    margin-top:60px;
+}
+#but{
+    background-color: aqua;
+
+}
+a{
+    text-decoration: none;
+}
+.head{
+    text-align: center;
+    color:rgb(136, 227, 9);
+    background-color: bisque;
+}
+.user{
+    margin-top: 50px;
+}
+#ton{
+  padding:10px;
+  background-color: greenyellow;
+}
+#log{
+ padding:10px;
+ margin:20px;
+ margin-left:5px;
+ background-color: red;
+ color: aquamarine;
+ ;
+}
